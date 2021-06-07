@@ -1,0 +1,14 @@
+* {
+  color: blue;
+  background-color: grey;
+}
+
+h2 {
+  color: chartreuse;
+  background-color: orange;
+}
+
+h1 {
+  color: brown;
+  background-position: center;
+}

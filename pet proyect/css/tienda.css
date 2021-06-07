@@ -1,0 +1,4 @@
+#perros: checked ~ #images .perros, #perros: :checked
+#imagenes .movil {
+  display: none;
+}
